@@ -1,0 +1,14 @@
+---
+layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
+title: Sea burst
+date: '2013-07-16 13:51:00'
+tags: leisure photography
+---
+
+![Sea Burst](https://imgur.com/lumHHnk.jpg)
+
+Sea burst.

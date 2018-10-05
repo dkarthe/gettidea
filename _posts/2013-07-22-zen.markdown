@@ -1,0 +1,14 @@
+---
+layout: post
+current: post
+navigation: True
+class: post-template
+author: rahi
+title: Zen
+date: '2013-07-22 15:22:00'
+tags: leisure photography
+---
+
+![Zen](https://i.imgur.com/xiBbl3J.jpg)
+
+Zen
