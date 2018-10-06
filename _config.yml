@@ -10,7 +10,7 @@ baseurl: '/'
 # Website info
 title: GetIdea
 description: Get The Latest Tech Ideas
-cover: assets/img/BG.jpg
+cover: assets/img/bg2.jpg
 logo: assets/img/bulb.ico
 logo_dark: assets/img/favicon.png
 favicon: assets/img/favicon.ico
