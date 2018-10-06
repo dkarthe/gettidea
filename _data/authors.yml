@@ -9,4 +9,17 @@ rahi:
   facebook: True
   twitter: gettidea
   facebook: gettidea
+  cover: assets/images/fables.jpeg
+  
+vishnu:
+  username: vishnu
+  name: Vishnu
+  location: India
+  url_full: https://getidea.me
+  url: getidea.me
+  bio: technology advisor
+  picture: assets/img/fvcon.png
+  facebook: True
+  twitter: gettidea
+  facebook: gettidea
   cover: assets/images/rahi-cover.jpeg
