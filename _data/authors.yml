@@ -4,12 +4,12 @@ KD:
   location: India
   url_full: https://getidea.me
   url: getidea.me
-  bio: social profit technology advisor
+  bio: Technology Advisor, Co-Founder of GetIdea
   picture: assets/img/img.png
   facebook: True
   twitter: gettidea
   facebook: gettidea
-  cover: assets/images/fables.jpeg
+  cover: assets/img/fables.jpeg
   
 vishnu:
   username: vishnu
@@ -17,9 +17,9 @@ vishnu:
   location: India
   url_full: https://getidea.me
   url: getidea.me
-  bio: technology advisor
+  bio: Technology Advisor, Co-Founder of GetIdea
   picture: assets/img/fvcon.png
   facebook: True
   twitter: gettidea
   facebook: gettidea
-  cover: assets/images/fables.jpeg
+  cover: assets/img/fables.jpeg
