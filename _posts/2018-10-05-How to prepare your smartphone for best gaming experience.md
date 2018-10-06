@@ -3,10 +3,10 @@ layout: post
 current: post
 navigation: True
 class: post-template
-author: KD
+author: kd
 title: How to prepare your smartphone for best gaming experience
 cover: /assets/img/blog/androidgame.jpg
-tag: android game pubg gta
+tag: Android,Game,PubG,GTA
 ---
 
  Smartphone gaming has seen a sudden boost as most people prefer playing games on their smartphones.
