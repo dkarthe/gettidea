@@ -26,7 +26,7 @@ twitter: gettidea # replace by your username
 facebook: gettidea #replace with your username
 
 # Disqus
-disqus: True
+disqus: true
 disqus_shortname: ooioo # replace with your disqus username
 
 # Google Analytics
