@@ -10,7 +10,7 @@ kd:
   twitter: gettidea
   facebook: gettidea
   cover: assets/img/fables.jpg
-  
+
 vishnu:
   username: vishnu
   name: Vishnu
@@ -20,6 +20,6 @@ vishnu:
   bio: Technology Advisor, Co-Founder of GetIdea
   picture: assets/img/me.jpg
   facebook: True
-  twitter: gettidea
-  facebook: gettidea
+  twitter: vshnu12
+  facebook: vizjack
   cover: assets/img/fables.jpg
