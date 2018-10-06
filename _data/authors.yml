@@ -1,5 +1,5 @@
-rahi:
-  username: rahi
+KD:
+  username: KD
   name: GetIdea
   location: India
   url_full: https://getidea.me
@@ -22,4 +22,4 @@ vishnu:
   facebook: True
   twitter: gettidea
   facebook: gettidea
-  cover: assets/images/rahi-cover.jpeg
+  cover: assets/images/fables.jpeg
