@@ -11,7 +11,7 @@ baseurl: '/'
 title: GetIdea
 description: Get The Latest Tech Ideas
 cover: assets/img/pencil.jpeg
-# logo: assets/img/blog-icon.png
+logo: assets/img/bulb.JPG
 logo_dark: assets/img/favicon.png
 favicon: assets/img/favicon.ico
 production_url: https://upi.me
