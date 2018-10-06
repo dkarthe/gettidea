@@ -3,7 +3,7 @@ layout: post
 current: post
 navigation: True
 class: post-template
-author: rahi
+author: KD
 title: Yay! The new Gmail is here
 cover: https://i.imgur.com/hxkNPEB.jpg
 date: '2018-04-26 10:21:00'
