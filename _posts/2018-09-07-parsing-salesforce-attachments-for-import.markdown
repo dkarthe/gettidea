@@ -3,7 +3,7 @@ layout: post
 current: post
 navigation: True
 class: post-template
-author: rahi
+author: vishnu
 title: Parsing Salesforce attachments for import
 cover: https://i.imgur.com/PwPsLY3.jpg
 date: '2018-09-07 21:41:37'
