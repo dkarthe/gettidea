@@ -6,11 +6,8 @@ class: post-template
 author: vishnu
 title: What's new on Whatsapp (v2.18.277)
 cover: /assets/img/blog/whatsapp.jpg
-tag: whatsapp,whatsapp update,latest features on whatsapp  
-
 ---
-
-
+  
   Being the Worlds best Messenger, Whatsapp is out with yet an other update with two cool featues. After the beta version been tested they have officially released this update.
 
 # Version 2.18.277
