@@ -10,7 +10,7 @@ baseurl: '/'
 # Website info
 title: GetIdea
 description: Get The Latest Tech Ideas
-cover: https://dkarthe.github.io/jv/
+cover: assets/img/bgg.jpg
 logo: assets/img/blog-icon.png
 logo_dark: assets/img/favicon.png
 favicon: assets/img/favicon.ico
