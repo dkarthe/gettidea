@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: OPPO with 10GB RAM certified as world’s first 10GB RAM phone
 cover: /assets/img/blog/fx1.jpg
-tag: find x,oppo find x,10gb,10gb ram
 
 ---
 

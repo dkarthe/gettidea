@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: BSNL Offers Free 1-Year Amazon Prime Subscription to Postpaid and Broadband Users & How to Claim It
 cover: /assets/img/blog/bsnlamzn.jpg
-tag: bsnl,amazon prime
 
 ---
 

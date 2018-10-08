@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (24 September):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1973 - Guinea-Bissau gains independence
 Guinea-Bissau declared its independence from Portugal. The declaration was recognized almost a year later on September 10, 1974.

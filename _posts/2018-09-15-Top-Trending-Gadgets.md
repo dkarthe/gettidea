@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: Top Trending Gadgets in 2018
 cover: /assets/img/blog/gadget.jpg
-tag: top trending gadgets,gadgets,top gadgets,finger pow,xenxo,qoocam,tilemate,flic  
 
 ---
 

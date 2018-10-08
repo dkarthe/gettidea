@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: Apple Launches iPhone XS, XS Max And XR, Unveils Watch Series 4
 cover: /assets/img/blog/aixp.jpg
-tag: apple iphone xs, xs max, xr,iphone xs,iphone xs max   
 
 ---
 

@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: Airtel offers Netflix subscription free for 3 months Here is how to claim?
 cover: /assets/img/blog/an.jpg
-tag: airtel,netflix,free
 
 
 ---

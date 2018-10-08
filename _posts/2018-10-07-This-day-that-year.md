@@ -9,7 +9,6 @@ cover: /assets/img/blog-cover.jpg
 ---
 # Facts and Events (07 October):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 2001 War in Afghanistan begins
 American and British troops began air strikes against Al Qaeda and Taliban targets after the Taliban refused to hand over Osama bin-Laden, the mastermind of the September 11, 2001 terrorist attacks, and other Al Qaeda operatives, to the United States. Nicknamed Operation Enduring Freedom, the military strikes were part of the so-called Global War on Terror.

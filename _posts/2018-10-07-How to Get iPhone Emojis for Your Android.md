@@ -5,7 +5,6 @@ title: How to Get iPhone Emojis for Your Android
 class: post-template
 author: kd
 cover: /assets/img/blog/emoji.jpg
-tag: android, emoji
 navigation: true
 ---
 `HTC or Android users, quickly update your old emojis`
@@ -16,9 +15,9 @@ navigation: true
 ## How to Install an iPhone Emoji Keyboard on Android
 * To get Apple emojis, you'll need to download an app that will enable you to install an iPhone emoji keyboard on Android. You have two options:
 
-### 1.Choosing your own emoji app: 
+### 1.Choosing your own emoji app:
    A good choice for folks who feel very comfortable installing apps on their Android.
-### 2.Trying out a popular emoji app: 
+### 2.Trying out a popular emoji app:
    A good choice for people who'd rather try one app out and see how it works.
 ## If you want to choose your own emoji app:
 1. Visit the **[Google Play](https://play.google.com/store?hl=en&tab=w8)** store and search for **"apple emoji keyboard."**
@@ -39,5 +38,4 @@ navigation: true
 
 Note: You may notice the system font looks slightly different than it did before, but that won't hurt your phone. You should be able to use iOS emojis for Android without a problem.
 
-You no longer have to be content with the emojis that came standard on your Android. Since you now have iPhone emojis for Android, you can have fun including these neat-looking emojis when messaging your friends, relatives, and colleagues who have iPhones. And you can enjoy the cool, sleek emoji design iPhone users are familiar with while still keeping your beloved Android. 
- 
+You no longer have to be content with the emojis that came standard on your Android. Since you now have iPhone emojis for Android, you can have fun including these neat-looking emojis when messaging your friends, relatives, and colleagues who have iPhones. And you can enjoy the cool, sleek emoji design iPhone users are familiar with while still keeping your beloved Android.

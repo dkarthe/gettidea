@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: Must have customization Android Apps
 cover: /assets/img/blog/cus.jpg
-tag: customize,free android apps,gbinsta,gbwhatsapp
 
 ---
 

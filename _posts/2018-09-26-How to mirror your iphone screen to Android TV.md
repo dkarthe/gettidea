@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: How to mirror your Iphone screen to Android TV
 cover: /assets/img/blog/atv.jpg
-tag: screen mirroring,ios screen mirroring,android tv,airscreen
 
 ---
 

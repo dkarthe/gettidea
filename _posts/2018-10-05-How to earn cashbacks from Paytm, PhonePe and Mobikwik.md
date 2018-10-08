@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to earn cashbacks from Paytm,PhonePe and Mobikwik to refill Petrol,diesel
 cover: /assets/img/blog/mbkwk.jpg
-tag: cashback,petrol,diesel,paytm,mobikwik
 
 ---
 

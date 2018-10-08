@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: macOS Mojave Top features, compatibility, how to download and install
 cover: /assets/img/blog/macmoja.png
-tag: mac,mojave
 
 ---
 The macOS Mojave update brings bug fixes, performance improvements, and new features. Here’s everything you need to know.

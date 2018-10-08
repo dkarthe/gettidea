@@ -6,12 +6,9 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (26 September):
-
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1959 - Typhoon Vera hits Japan
 The category five typhoon is thought to be the strongest typhoon to impact the island country in recorded history. The resulting rain, landslides, and damage caused the deaths of about 5000 people in Japan.

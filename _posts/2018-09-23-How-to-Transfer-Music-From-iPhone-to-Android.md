@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to Transfer Music From iPhone to Android
 cover: /assets/img/blog/ap1.jpg
-tag: transfer music,iphone to android,itunes
 
 
 ---

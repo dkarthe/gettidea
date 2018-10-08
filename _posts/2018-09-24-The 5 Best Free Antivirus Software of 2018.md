@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: The 5 Best Free Antivirus Software of 2018
 cover: /assets/img/blog/av.jpg
-tag: antivirus,free antivirus,2018
 
 ---
 

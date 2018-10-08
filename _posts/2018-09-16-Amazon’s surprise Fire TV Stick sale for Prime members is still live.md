@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: Amazon's Fire stick Giveaway!!!
 cover: /assets/img/blog/amzntv.jpg
-tag: amazon,fire stick,amazon firestick, flipkart primemember  
 
 ---
 

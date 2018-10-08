@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: How to lock a file in Windows 10
 cover: /assets/img/blog-cover.jpg
-tag: lock,lock a file,windows 10,secure file,lock folder
 
 ---
 

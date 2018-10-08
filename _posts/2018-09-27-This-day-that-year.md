@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (27 September):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1996 Taliban take over Kabul
 Following the take-over, the Islamic fundamentalist group established the Islamic Emirate of Afghanistan.

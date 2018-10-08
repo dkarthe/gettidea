@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: The Redmi Note 6 Pro is Xiaomi's first phone with four cameras.
 cover: /assets/img/blog/r6.jpg
-tag: Redmi mote 6 pro,Redmi mote 6,note 6 pro
 
 ---
 Xiaomi Redmi Note 6 Pro retains the Snapdragon 636, picks up a notch and dual front cameras

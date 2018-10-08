@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to Install Kodi on Android Mobile
 cover: /assets/img/blog/kodi.png
-tag: kodi,android,tv
 
 ---
 

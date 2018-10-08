@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to file income tax returns using Xiaomi smartphone
 cover: /assets/img/blog/mi.jpg
-tag: file incometax,incometax,xiaomi file incometax,mi calender app  
 
 ---
 Xiaomi has integrated ClearTax into its Mi calendar, which will make it easier for you to file your ITR. Here's how you can use it.

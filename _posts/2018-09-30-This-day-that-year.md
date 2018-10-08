@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (30 September):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 2005 Danish newspaper Jyllands-Posten publishes controversial cartoon
 The Danish newspaper Jyllands-Posten published a controversial cartoon of the Prophet Muhammad. The publication led to riots and protests in many parts of the world.

@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to update OnePlus 6 Android 9 Pie update
 cover: /assets/img/blog/onep.jpg
-tag: Oneplus,android pie,pie
 
 ---
 

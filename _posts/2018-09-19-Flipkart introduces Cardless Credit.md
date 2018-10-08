@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: Flipkart introduces 'Cardless Credit' to help customers buy now and pay later
 cover: /assets/img/blog/fk.jpg
-tag: flipkart cardless credit,cardless credit,flipkart,pay later
 
 ---
 

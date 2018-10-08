@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (25 September):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 2008 - China launches Shenzhou spacecraft with 3 astronauts
 This was the third human manned space flight mission of China's Space Program.

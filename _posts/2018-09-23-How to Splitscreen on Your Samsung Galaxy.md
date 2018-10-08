@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to Splitscreen on Your Samsung Galaxy
 cover: /assets/img/blog/smsng.jpg
-tag: splitscreen,samsung splitscreen
 
 ---
 

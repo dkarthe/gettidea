@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to prepare your smartphone for best gaming experience
 cover: /assets/img/blog/androidgame.jpg
-tag: android,game,pubg,gta5,fortnite
 
 ---
 

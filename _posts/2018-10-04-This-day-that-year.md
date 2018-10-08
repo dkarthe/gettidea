@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (04 October):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1992 End of the Mozambican Civil War
 The 15-year long civil war was fought between the Mozambique Resistance Movement and the Mozambican government. The conflict, which began in 1977, just a couple of years after the War of Independence against the Portuguese, resulted in massive losses of human life and property. The civil war ended with the signing of the Rome General Peace Accords by both of the warring parties.

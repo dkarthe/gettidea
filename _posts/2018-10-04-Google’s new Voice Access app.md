@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: Google’s new Voice Access app
 cover: /assets/img/blog/gv.jpg
-tag: Voice access,Google voice assistant,Googl voice access
 
 ---
 

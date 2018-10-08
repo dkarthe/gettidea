@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (05 October):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 2000 Bulldozer Revolution in former Federal Republic of Yugoslavia
 President Slobodan Milosevic was overthrown after hundreds of thousands of protesters gathered in Belgrade to protest against recently held elections. While largely peaceful, the protesters burnt down the Parliament building. Milosevic resigned and stepped down from his office two days later.

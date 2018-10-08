@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (29 September):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1994 Sinking of MS Estonia
 MS Estonia, a passenger and car ferry, sank in the Baltic Sea killing more than 800 passengers. It is considered to be the worst maritime peace-time disaster of the 20th century.

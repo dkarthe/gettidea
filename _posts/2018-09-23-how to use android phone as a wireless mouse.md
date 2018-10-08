@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: How to Use Your Android Device as a Mouse, Keyboard, Joystick
 cover: /assets/img/blog/wm.png
-tag: android, wireless mouse
 
 ---
 

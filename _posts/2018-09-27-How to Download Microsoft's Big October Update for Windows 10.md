@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: How to Download Microsoft's Big October Update for Windows 10 Right Now
 cover: /assets/img/blog/w10.jpg
-tag: 1809,windows 10,october update,windows update
 
 ---
 

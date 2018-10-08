@@ -6,7 +6,6 @@ class: post-template
 author: vishnu
 title: OnePlus TV You Name It
 cover: /assets/img/blog/oneplustv.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 The next product of OnePlus has been announced - "The OnePlus TV"

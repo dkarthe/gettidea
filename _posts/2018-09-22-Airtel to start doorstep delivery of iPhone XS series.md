@@ -6,7 +6,6 @@ class: post-template
 author: kd
 title: Airtel to start doorstep delivery of iPhone XS series from Sep 28
 cover: /assets/img/blog/ap.jpg
-tag: airtel doorstep delivery,airtel iphone sx,airtel iphone
 
 
 ---

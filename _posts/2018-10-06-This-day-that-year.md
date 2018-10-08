@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (06 October):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 2007 First successful human powered attempt to circumnavigate the world
 Englishman Jason Lewis set out on the journey, also called Expedition 360 on July 12, 1994, from Greenwich, London. The over 46,000-mile expedition around the world took him 4,833 days, during which he used only human-powered modes of transportation including bicycles, roller blades, and a pedal powered boat.

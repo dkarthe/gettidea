@@ -6,8 +6,8 @@ navigation: true
 class: post-template
 author: kd
 cover: /assets/img/blog/bsnl.jpg
-tag: bsnl, broadband
 ---
+
 There are three other plans priced between Rs 199 and Rs 399.
 * State-run telco BSNL is one of the largest wired broadband service provider in India. Now, as Reliance Jio is gearing up to launch its high-speed JioGigaFiber broadband service, BSNL has launched four new entry-level broadband plans priced between Rs 99 and Rs 399. All four plans offer daily data at 20Mbps speed, and unlimited voice calls. BSNL is also offering users with free email ID with 1GB of storage speed.
 

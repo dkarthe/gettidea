@@ -6,12 +6,10 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (01 October):
 
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1991 Siege of Dubrovnik
 The Siege of Dubrovnik began during the Croatian War of Independence. On this day, the Yugoslav People's Army started its offensive on Dubrovnik.

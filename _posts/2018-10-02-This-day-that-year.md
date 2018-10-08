@@ -6,12 +6,9 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
 
 ---
 # Facts and Events (02 October):
-
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 2002 Beltway sniper attacks begin
 A series of coordinated sniper attacks occurred in Washington, D.C., Maryland, and Virginia. The attacks lasted 3 weeks and resulted in the killing of 10 people.

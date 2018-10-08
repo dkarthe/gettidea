@@ -6,13 +6,9 @@ class: post-template
 author: vishnu
 title: This day that year
 cover: /assets/img/blog-cover.jpg
-tag: that day this year,this day,facts,about today
-
 
 ---
 # Facts and Events (03 October):
-
-![Fact](/assets/img/blog/fact.jpg)
 
 ### 1995 OJ Simpson acquitted in the killings of Nicole Brown Simpson and Ronald Lyle Goldman
 The former football player had been accused of murdering his ex-wife and her friend on June 13, 1994. The high profile case and the subsequent trial of Simpson captured widespread media and public attention in the United States and around the world.
