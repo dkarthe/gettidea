@@ -1,4 +1,0 @@
-This is a Brave Payments publisher verification file.
-
-Domain: getidea.me
-Token: dcbe0f1d19f8b866b9cc333053b33671eeccdb8d27de3dc291f506096c2de40a
